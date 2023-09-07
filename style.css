@@ -1,3 +1,100 @@
+
 *{
- background-color: aqua;
+   margin : 0px;
+   padding: 0px;
 }
+nav{
+  
+   height: 30px;
+   width: auto;
+   background-color: rgb(74, 72, 72);
+   
+}
+
+/* .logo{
+   
+   width: 5.7805rem;
+   height: 5.61506rem;
+
+
+border-radius: 7.125rem;
+
+background: url(logo.png);
+
+/* }
+
+.log{
+   display: flex;
+   margin-top: 10px;
+   margin-right: 6px;
+   justify-content: right;
+}*/ 
+.zakir{
+   display: flex;
+   
+   
+} 
+.zk{
+   width: 55.25rem;
+   height: 44.0625rem;
+   background: url(zakir.png);
+
+}
+.ustad {
+   width: 21.25rem;
+   height: 4.1875rem;
+   margin-top: 25%;
+   margin-left: 128%;
+   color: #FFA800;
+text-align: right;
+font-family: Inter;
+font-size: 4rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+}
+.hussain{
+   margin-left: 87%;
+width: 44rem;
+height: 6.4375rem;
+flex-shrink: 0;
+color: #FFF;
+text-align: right;
+font-family: Inter;
+font-size: 6rem;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+  
+.quote{
+   margin-left: 80%;
+   width: 47.5625rem;
+   height: 9.8125rem;
+   flex-shrink: 0;
+   color: #FFF;
+  text-align: right;
+  font-family: Inter;
+  font-size: 1.7rem;
+  font-style: normal;
+  font-weight: 261;
+  line-height: normal;
+}
+
+   
+
+
+a{
+   margin-top:20px ;
+   font-family: Arial, Helvetica, sans-serif;
+   color: rgb(255, 225, 0);
+   text-decoration: none;
+   
+   
+}
+body{
+   background-color: rgb(255, 255, 255);
+
+}
+
